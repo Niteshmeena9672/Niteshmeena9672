@@ -160,17 +160,16 @@
   </a> &nbsp;&nbsp;
   <a href="https://linkedin.com/in/nitesh-meena-2512a6212/" target="_blank">
     <img align="center" alt="Nitesh Meena | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/AlgoStar/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;
  <a href="https://auth.geeksforgeeks.org/user/nitesh9672" target="_blank" style="margin-left: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/Niteshmeena9672" target="_blank">
     <img align="center" alt="Nitesh Meena | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
 
   <!-- YouTube link removed as not provided -->
 </p> 
