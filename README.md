@@ -14,12 +14,7 @@
   <a href="https://linkedin.com/in/nitesh-meena-2512a6212/" target="_blank" style="margin-left: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
- <a href="https://www.leetcode.com/niteshmeena9672" target="_blank" style="margin-left: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
- <a href="https://auth.geeksforgeeks.org/user/nitesh9672" target="_blank" style="margin-left: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
+
 
 
 
@@ -155,3 +150,32 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshmeena9672&show_icons=true&locale=en" alt="niteshmeena9672" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshmeena9672&" alt="niteshmeena9672" /></p>
+
+
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
+<p align="center">
+  <a href="mailto:meena.58@iitj.ac.in">
+    <img align="center" alt="Nitesh Meena | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nitesh-meena-2512a6212/" target="_blank">
+    <img align="center" alt="Nitesh Meena | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/AlgoStar/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+ <a href="https://auth.geeksforgeeks.org/user/nitesh9672" target="_blank" style="margin-left: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+
+  <a href="https://github.com/Niteshmeena9672" target="_blank">
+    <img align="center" alt="Nitesh Meena | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+
+  <!-- YouTube link removed as not provided -->
+</p> 
+
+<div align="center">
+  :heart_eyes: Thanks for checking out my profile! Have a great day! :wink: <br/>
+  &copy; 2024 Nitesh Meena
+</div>
