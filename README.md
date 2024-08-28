@@ -1,21 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nitesh Meena from IIT Jodhpur</h1>
+<h1 align="center">Hi 👋, I'm <b>Nitesh Meena</b> from IIT Jodhpur</h1>
 
-🔍 I’m interested in Problem Solving related to DSA and real-world applications, as well as contributing to open source projects.
+🔍 I’m interested in <b>Problem Solving</b> related to <b>DSA</b> and real-world applications, as well as contributing to <b>open source projects</b>.
 
-📚 I have completed training in Machine Learning and Full Stack Web Development (MERN) and am now focusing on DevOps.
+📚 I have completed training in <b>Machine Learning</b> and <b>Full Stack Web Development (MERN)</b> and am now focusing on <b>DevOps</b>.
 
-💼 Past Experience: Freelance SDE at Seiaum Tech Private Limited, Software Development Intern at ITJOBXS, and Full Stack Developer at Exposys Data Labs.
+💼 Past Experience: <b>Freelance SDE at Seiaum Tech Private Limited</b>, <b>Software Development Intern at ITJOBXS</b>, and <b>Full Stack Developer at Exposys Data Labs</b>.
 
-🤝 Currently seeking opportunities in SDE or Full Stack Development to tackle real-world problems and collaborate with like-minded professionals.
+🤝 Currently seeking opportunities in <b>SDE</b> or <b>Full Stack Development</b> to tackle real-world problems and collaborate with like-minded professionals.
+
   
-
-<h2 align="left" style="display: inline-flex; align-items: center;">
-  <b>Connect with me:</b></h2>
-  <a href="https://linkedin.com/in/nitesh-meena-2512a6212/" target="_blank" style="margin-left: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-
-
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshmeena9672&label=Profile%20views&color=0e75b6&style=flat" alt="niteshmeena9672" /> </p> -->
